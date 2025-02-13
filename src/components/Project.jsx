@@ -8,31 +8,31 @@ const Project = () => {
   const project = [
     {
       imageUrl: Market,
-      projectName: "stock market forecast",
+      projectName: "Stock Price Predictions",
       id: 0,
-      live:"https://github.com/shraddesh1998/Forecasting_Project",
-      githubLink: "https://github.com/shraddesh1998/Forecasting_Project",
+      live:"https://github.com/Suraj-23/Forcasting-of-Stocks-Prices",
+      githubLink: "https://github.com/Suraj-23/Forcasting-of-Stocks-Prices",
     },
     {
       imageUrl:Bank,
-      projectName: "Bank-Loan-Analysis",
+      projectName: "Image classification",
       id: 3,
-      live: "https://github.com/shraddesh1998/Bank-Loan-Analysis",
-      githubLink: "https://github.com/shraddesh1998/Bank-Loan-Analysis",
+      live: "https://github.com/Suraj-23/Image-classification-Project",
+      githubLink: "https://github.com/Suraj-23/Image-classification-Project",
     },
     {
       imageUrl: Car,
-      projectName: "Cars Price peredication",
+      projectName: "Cars Price predictions",
       id: 1,
-      live: "https://github.com/shraddesh1998/Cars-Price-Prediction/",
-      githubLink: "https://github.com/shraddesh1998/Cars-Price-Prediction",
+      live: "https://cars-price-prediction-1.onrender.com/?City=Mumbai&Company=Ford&car_models=Ford+Ecosport+1.5+TITANIUM+TI+VCT&Transmission=Manual&Year=2000&Fuel_Type=Petrol+%2B+CNG&KM_Driven=5854",
+      githubLink: "https://github.com/Suraj-23/Cars-Revenue-Prediction",
     },
     {
       imageUrl: Work,
-      projectName: "Adventure Works",
+      projectName: "Sentiment Analysis",
       id: 2,
-      live: "https://github.com/shraddesh1998/Adventure_Works",
-      githubLink: "https://github.com/shraddesh1998/Adventure_Works",
+      live: "https://github.com/Suraj-23/Sentiment-Analysis-on-Amazon-Products",
+      githubLink: "https://github.com/Suraj-23/Sentiment-Analysis-on-Amazon-Products",
     },
 
     
