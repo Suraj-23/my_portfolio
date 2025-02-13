@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef177556.css",
+    "main.js": "/static/js/main.ea87ec10.js",
+    "static/media/R.png": "/static/media/R.0689d33971de2d55c378.png",
+    "static/media/Excel.png": "/static/media/Excel.3ec83ec4da01bd09d141.png",
+    "static/media/AI.png": "/static/media/AI.81cf45b8734aeb6074bf.png",
+    "static/media/Azure.png": "/static/media/Azure.5a694f18b0e4f276ce48.png",
+    "static/media/Power Bi.png": "/static/media/Power Bi.c6fa1d7ac1220a664a0e.png",
+    "static/media/certificate.png": "/static/media/certificate.ab27b185c280d8743628.png",
+    "static/media/LLM.png": "/static/media/LLM.66e67f7f4122e91bece3.png",
+    "static/media/stock.jpg": "/static/media/stock.0d22ffd1df298c1c2525.jpg",
+    "static/media/Cars.jpg": "/static/media/Cars.3f9940c68202de0b2c81.jpg",
+    "static/media/Bank.jpeg": "/static/media/Bank.c988783b3dcc167e20a5.jpeg",
+    "static/media/sunIconlogo.png": "/static/media/sunIconlogo.eb0a77892f68ed202b9f.png",
+    "static/media/Suraj_Dp.jpg": "/static/media/Suraj_Dp.d3c193fe503215c4bde7.jpg",
+    "static/media/Streamlit.png": "/static/media/Streamlit.7785ed14cdf012c21f7f.png",
+    "static/media/Agile.png": "/static/media/Agile.a696e37edb7eafb323a7.png",
+    "static/media/Machine-learning.png": "/static/media/Machine-learning.71cf5caaa614ef0f3d76.png",
+    "static/media/AdventureWorks_Logo.jpeg": "/static/media/AdventureWorks_Logo.dce0d5bc2482805803bc.jpeg",
+    "static/media/SQL.png": "/static/media/SQL.23c581157bfd750f2640.png",
+    "static/media/Seaborn.png": "/static/media/Seaborn.e181da54be541e6cb0cf.png",
+    "static/media/Matplotlib.png": "/static/media/Matplotlib.7cd94e4825eb81693195.png",
+    "static/media/moon.png": "/static/media/moon.a2532a16d8bf38ee713e.png",
+    "static/media/Flask.png": "/static/media/Flask.8273a6e6fdfcab03efd0.png",
+    "static/media/Openlens.png": "/static/media/Openlens.34e5933792528cd14e1e.png",
+    "static/media/Python.png": "/static/media/Python.461c1effab163e472fc7.png",
+    "static/media/Plotly.png": "/static/media/Plotly.169108a3c95d53c51b81.png",
+    "static/media/email.png": "/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/arrow.png": "/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/mongodb.png": "/static/media/mongodb.2d7da356cd9c96de5f3c.png",
+    "index.html": "/index.html",
+    "main.ef177556.css.map": "/static/css/main.ef177556.css.map",
+    "main.ea87ec10.js.map": "/static/js/main.ea87ec10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef177556.css",
+    "static/js/main.ea87ec10.js"
+  ]
+}
