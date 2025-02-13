@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import Car from "../assets/Cars.jpg";
-import Work from "../assets/AdventureWorks_Logo.jpeg";
+import Sentiment from "../assets/Sentiment Analysis.png";
 import Bank from "../assets/Bank.jpeg";
 import Market from "../assets/stock.jpg";
 
@@ -28,7 +28,7 @@ const Project = () => {
       githubLink: "https://github.com/Suraj-23/Cars-Revenue-Prediction",
     },
     {
-      imageUrl: Work,
+      imageUrl: Sentiment,
       projectName: "Sentiment Analysis",
       id: 2,
       live: "https://github.com/Suraj-23/Sentiment-Analysis-on-Amazon-Products",
